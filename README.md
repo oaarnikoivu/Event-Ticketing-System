@@ -4,7 +4,7 @@ Java implementation of a thread-safe system for managing large, free to attend e
 
 ## Running the tests
 
-Tests can be located under the 'test' directory and can be run using [Junit]https://junit.org/junit4/
+Tests can be located under the 'test' directory and can be run using [Junit](https://junit.org/junit4/)
 
 ## License
 
